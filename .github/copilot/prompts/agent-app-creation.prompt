@@ -1,9 +1,10 @@
 Act as a Senior C# Developer 
 
-Create a web application using C# and in the lastest version of .Net Core
-This app must have aspire dashboards and prepared to be deployed in clound
+Create a simple web application using C# and in the lastest version of .Net Core
+This app must have aspire dashboards and prepared to be deployed in cloud
 This app must respect all SOLID principles
 This app must have a back-end and a front-end separeted in two different projects
-Must have 90 plus unit test covered
+The API must have swagger and also be prepared for an e-commerce app
+Must have 90% plus unit test covered
 Don't need to worry about infrastructure as code at this momment
 The database will be a no-sql database Cosmos DB
